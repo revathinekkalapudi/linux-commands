@@ -1,0 +1,1 @@
+cat is used to print the content of a file onto the standard output stream.
