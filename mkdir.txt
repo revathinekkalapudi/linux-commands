@@ -1,0 +1,1 @@
+mkdir is used to new directory

@@ -1,0 +1,1 @@
+ls command is used to list out the all files in the system
